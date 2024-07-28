@@ -6,8 +6,9 @@
 
 == How things are working
 
-1. link:https://www.youtube.com/watch?v=CJlrbMHLBd4&list=PLtaR0lZhSyAPLuoSbMA29s3Ry8ZUvKff3[Secret life of machines,window=_blank] authored
-   by link:https://www.youtube.com/@timhunkin1[yt Tim Hunkin]
+1. link:https://www.youtube.com/watch?v=CJlrbMHLBd4&list=PLtaR0lZhSyAPLuoSbMA29s3Ry8ZUvKff3[Secret life of machines,window=_blank]
+   authored by link:https://www.youtube.com/@timhunkin1[yt Tim Hunkin] link:https://en.wikipedia.org/wiki/Tim_Hunkin[wiki Tim Hunkin]
+   and link:https://en.wikipedia.org/wiki/Rex_Garrod[wiki Rex Garrod]
 2. link:https://www.youtube.com/@Computerphile[yt Computerphile]
 3. link:https://www.youtube.com/@ComputerHistory[yt Computer history]
 4. link:https://www.youtube.com/@DigilogueCollection[yt Digilogue Collection]
