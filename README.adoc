@@ -2,4 +2,5 @@
 
 == How things are working
 
-1. link:https://www.youtube.com/watch?v=CJlrbMHLBd4&list=PLtaR0lZhSyAPLuoSbMA29s3Ry8ZUvKff3[Secret life of machines,window=_blank]
+1. link:https://www.youtube.com/watch?v=CJlrbMHLBd4&list=PLtaR0lZhSyAPLuoSbMA29s3Ry8ZUvKff3[Secret life of machines,window=_blank] authored
+   by link:https://www.youtube.com/@timhunkin1[Tim Hunkin]
