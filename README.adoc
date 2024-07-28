@@ -9,3 +9,12 @@
 1. link:https://www.youtube.com/watch?v=CJlrbMHLBd4&list=PLtaR0lZhSyAPLuoSbMA29s3Ry8ZUvKff3[Secret life of machines,window=_blank] authored
    by link:https://www.youtube.com/@timhunkin1[Tim Hunkin]
 
+== History of culture
+
+1. link:http://www.textfiles.com/hacking/[Textfiles collection of hacking]
+
+== Magazines
+
+1. link:https://2600.com/[2600 magazine]
+2. link:http://phrack.org/[Phrack magazine]
+
